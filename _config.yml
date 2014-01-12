@@ -1,1 +1,6 @@
-baseurl: /
+# Jekyll
+permalink: /:year/:title/
+paginate: 10
+exclude: []
+name: Karidyang Blog
+baseurl: /myblog
