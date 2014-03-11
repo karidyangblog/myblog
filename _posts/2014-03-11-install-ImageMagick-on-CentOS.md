@@ -1,8 +1,7 @@
 ---
 layout: default
 title: 在CentOS中安装与使用ImageMagick
-tag: 'ImageMagick','Java'
-
+tag: 'ImageMagick'
 ---
   
 
